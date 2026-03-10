@@ -11,4 +11,10 @@ body {
 
 #hero {
     background-color: #FEEAE9;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 38px;
+    padding-bottom: 38px;
+    
+   
 }
