@@ -5,6 +5,10 @@ body {
 
 #navbar {
     display: flex;
-    justify-content:space-between;
+    justify-content: space-between;
     padding-top: 20px;
+}
+
+#hero {
+    background-color: #FEEAE9;
 }
