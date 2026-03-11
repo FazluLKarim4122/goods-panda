@@ -109,15 +109,17 @@ footer {
     width: 100%;
 }
 
-footer h3 {
+#heading {
+    /* display: block; */
     text-align: center;
-    justify-content: center;
-    align-items: center;
+    /* justify-content: center;
+    align-items: center; */
 }
 
-footer small {
+#footerNote {
+    display: block;
     text-align: center;
-    justify-content: center;
-    align-items: center;
+    /* justify-content: center;
+    align-items: center; */
 }
 
