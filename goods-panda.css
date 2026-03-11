@@ -101,3 +101,23 @@ body {
     
 }
 
+footer {
+    margin-top: 40%;
+    margin-bottom: 10%;
+    background: #fff2f1FF;
+    height: 400px;
+    width: 100%;
+}
+
+footer h3 {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+footer small {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
